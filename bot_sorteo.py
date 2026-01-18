@@ -7,7 +7,7 @@ import time
 # ================= CONFIGURACIÓN =================
 import os
 TOKEN = os.getenv("TOKEN")
-ADMIN_USERNAME = "@MiUsee_nameu"
+ADMIN_USERNAME = "@Akami_Sun"
 INTENTOS_INICIALES = 5
 MAX_GANADORES = 2
 MAX_USUARIOS = 50
